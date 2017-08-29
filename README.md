@@ -1,5 +1,4 @@
-# Chat
-Client-server chat with chatbot
+# Client-server chat with chatbot
 All you need:
 1. Run Server.class
 2. Enter address and port of your server (for local server use "localhost" and "8080"
